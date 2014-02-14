@@ -1,0 +1,15 @@
+{
+	"name": "lucianodelucchi/legacy-website-wrapper",
+    "description": "Wrap the ol' legacy website in a nice Silex app",
+    "keywords": ["legacy, wrapper"],
+    "authors": [
+        {
+            "name": "Luciano Delucchi",
+            "email": "luciano.delucchi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "silex/silex": "~1.1"
+    }
+}
