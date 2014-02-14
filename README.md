@@ -20,7 +20,7 @@ At the moment you'll have to clone this repo and run:
 composer install
 ```
 
-To make sure all the requests are sent to the front controller you'll have to teak your web server configuration, here is the config file for nginx:
+To make sure all the requests are sent to the front controller you'll have to tweak your web server configuration, here is the config file for nginx:
 https://gist.github.com/lucianodelucchi/8999075
 
 Enjoy!
