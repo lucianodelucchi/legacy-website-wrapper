@@ -1,5 +1,5 @@
 {
-	"name": "lucianodelucchi/legacy-website-wrapper",
+    "name": "lucianodelucchi/legacy-website-wrapper",
     "description": "Wrap the ol' legacy website in a nice Silex app",
     "keywords": ["legacy, wrapper"],
     "authors": [
